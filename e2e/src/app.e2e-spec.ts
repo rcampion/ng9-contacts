@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('ng9-contacts app is running!');
+    expect(page.getTitleText()).toEqual('Ng9Contacts');
   });
 
   afterEach(async () => {

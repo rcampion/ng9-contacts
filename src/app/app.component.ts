@@ -9,7 +9,7 @@ import { UsersService } from './core/services/users.service';
     styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-    title = 'ng8-contacts';
+    title = 'Ng9Contacts';
 
     userService: UsersService;
 
