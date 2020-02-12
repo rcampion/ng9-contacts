@@ -1,0 +1,4 @@
+ng serve --host www.zdslogic-development.com --port 4200
+
+ng build --prod --base-href /contacts/
+
