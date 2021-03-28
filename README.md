@@ -17,7 +17,7 @@ Demonstrates Routing.
 
 Demonstrates Security.
 
-(http://aws.richardcampion.com/contacts).
+(http://aws.richardcampion.com/contacts/).
 
 ==========================================
 
